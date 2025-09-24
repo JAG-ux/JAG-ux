@@ -7,7 +7,7 @@
 - 📫 How to reach me: Only here for now
 - 😄 Pronouns: Only a person
 
-##Tecnologias Reconocidas👀  *LowLevel*
+## Tecnologias Reconocidas👀  *LowLevel*
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java=light)](https://skillicons.dev)
