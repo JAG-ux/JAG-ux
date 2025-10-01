@@ -1,10 +1,10 @@
 ## Hi there 👋
-**JAG-ux** is a ✨ _special_ ✨ Person
+**JAG-ux** is a 🐧 _Parrot_ 🦜 User
 
 - 🔭 I’m currently working on my self learning 
 - 🌱 I’m currently learning WebDev and Cybersecurity in HTB
 - 📫 How to reach me: Only here for now
-- 😄 Pronouns: Only a person
+- 🦜 Pronouns: Only a person
 
 ## known technologies👀  *LowLevel*
 
@@ -21,8 +21,3 @@
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAG-ux/JAG-ux/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAG-ux/JAG-ux/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JAG-ux/JAG-ux/output/pacman-contribution-graph.svg">
-</picture>
