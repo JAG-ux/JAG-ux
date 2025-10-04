@@ -42,8 +42,3 @@
 </div>
 
 ---
-
-### 🛰 Let's Connect (Eventually)
-Currently not accepting messages — but stay tuned, DMs might open soon 👀
-
----
