@@ -9,9 +9,7 @@
 
 - 🔍 Currently diving into **Cybersecurity** and **Web Development**
 - 💡 Learning through platforms like **Hack The Box (HTB)** and hands-on labs
-- 💻 Exploring the world of **low-level tech**, scripting, and system internals
-- 📍 Based on **Parrot OS** (🦜), daily driver for hacking & dev
-
+  
 ---
 
 ### 🧠 Skills & Technologies
