@@ -18,9 +18,7 @@
 
 #### Languages
 [![Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
-
-#### Web Stack
-[![Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 #### Tools & OS
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-222831?style=flat&logo=linux&logoColor=white)
@@ -32,7 +30,7 @@
 
 ### 🔧 Currently Working On
 
-- 🧪 **Front-End Projects** using HTML, CSS, and Vanilla JS
+- 🧪 **Web Projects** using HTML, CSS, and Vanilla JS
 - 🛡️ **HTB Challenges** to sharpen my pentesting skill
   
 ---
