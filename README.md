@@ -16,7 +16,7 @@
 
 ### 🧠 Skills & Technologies
 
-#### Languages
+#### Technologies
 [![Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
